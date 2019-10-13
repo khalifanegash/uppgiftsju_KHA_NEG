@@ -3,6 +3,7 @@
      width: 600px;
      height: 300px;
      display: flex;
+     background: lime;
 }
 .item {
      width: 300px;
